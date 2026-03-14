@@ -95,15 +95,19 @@ Advanced SQL techniques used:
 - Aggregations
 - Time-Series Analysis
 
-**File**
-
 ### 📈 Monthly Revenue Growth Analysis
 
-This analysis uses the **LAG() window function** to calculate month-over-month revenue growth.
+<p align="center">
+  <img src="Monthly Revenue Growth.png" width="800"/>
+</p>
 
-![Monthly Revenue Growth](Monthly Revenue Growth.png)
+🔎 Insight:
+- Calculated Month-over-Month revenue growth using SQL window function **LAG()**.
+- Identified periods of positive and negative revenue change.
+- Helps business track **sales momentum and seasonal demand patterns**.
 
 ---
+
 
 ## 3️⃣ Product Performance Analysis
 
