@@ -73,8 +73,6 @@ Initial checks were performed to ensure dataset integrity:
 - Data type validation
 - Revenue consistency checks
 
-**File**
-
 ---
 
 ## 2️⃣ Business KPI Analysis
@@ -119,8 +117,6 @@ Insights include:
 - Product demand by quantity
 - Top revenue generating products
 
-**File**
-
 ---
 
 ## 4️⃣ Customer Behavior Analysis
@@ -134,13 +130,16 @@ Key analysis includes:
 - Average order value
 - Customer segmentation
 
-**File**
-
 ### 👥 Customer Revenue Segmentation
 
-Customers are segmented into revenue tiers using SQL **CASE expressions**.
+<p align="center">
+  <img src="Customer Revenue Segmentation.png" width="800"/>
+</p>
 
-![Customer Revenue Segmentation](Customer Revenue Segmentation.png)
+🔎 Insight:
+- Customers segmented into **Low, Medium, and High revenue tiers** using SQL CASE logic.
+- Identifies high-value customers contributing most revenue.
+- Helps business design **targeted marketing and retention strategies**.
 
 ---
 
