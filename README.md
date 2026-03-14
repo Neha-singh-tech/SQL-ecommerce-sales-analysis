@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 **Project Overview**
 
 This project demonstrates **advanced SQL analysis applied to an E-commerce sales dataset** to uncover meaningful business insights related to revenue performance, customer behavior, and product demand.
 
